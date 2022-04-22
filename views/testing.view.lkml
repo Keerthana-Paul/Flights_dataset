@@ -35383,7 +35383,7 @@ view:testing {
         'LYSITE     ' AS airports_city, 'FREMONT    ' AS airports_county, 'WY' AS airports_state, 1 AS airports_count
       UNION ALL
       SELECT
-        'FORT WASHAKIE                 ' AS airports_city, 'FREMONT    ' AS airports_county, 'WY' AS airports_state, 1 AS airports_count
+        'FORT WASHAKIE' AS airports_city, 'FREMONT    ' AS airports_county, 'WY' AS airports_state, 1 AS airports_count
       UNION ALL
       SELECT
         'YODER      ' AS airports_city, 'GOSHEN     ' AS airports_county, 'WY' AS airports_state, 1 AS airports_count
