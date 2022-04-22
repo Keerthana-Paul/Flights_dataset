@@ -31,3 +31,5 @@ explore: ad_groups {}
 explore: campaigns {}
 
 explore: keywords {}
+
+explore: airport_test {}
