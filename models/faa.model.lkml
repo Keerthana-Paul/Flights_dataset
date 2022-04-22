@@ -12,6 +12,8 @@ persist_with: faa_default_datagroup
 
 explore: users {}
 
+explore: testing {}
+
 explore: order_items {}
 
 explore: inventory_items {}

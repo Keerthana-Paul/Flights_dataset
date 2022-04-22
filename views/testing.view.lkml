@@ -4,7 +4,7 @@
 
 # explore: csv_to_sql_query {}
 
-view: csv_to_sql_query {
+view: testing {
   derived_table: {
     sql:
       SELECT
